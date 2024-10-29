@@ -16,17 +16,10 @@ This repository contains several interactive web applications built with [Stream
 
 Here’s an overview of the applications currently in this repository:
 
-1. **Application 1: Data Dashboard**
-   - Visualize and analyze datasets with interactive charts, tables, and filtering options.
-   - Uses libraries like `pandas` and `matplotlib` for data manipulation and visualization.
-   
-2. **Application 2: Text Analysis Tool**
-   - Perform basic NLP tasks, such as word frequency analysis and sentiment analysis.
-   - Leverages libraries like `nltk` and `TextBlob`.
-
-3. **Application 3: Machine Learning Model Explorer**
-   - Allows users to upload data and train simple machine learning models.
-   - Built with `scikit-learn` for model training and evaluation.
+1. **Application 1: Loan Decision**
+2. **Application 2: Sentiment Analyzer Tool**
+3. **Application 3: Employee attrition**
+4. **Application 4: Employee Churn application**
 
 ## Installation
 
